@@ -1,4 +1,4 @@
-package Head02_OOP_Programming;
+package Head02_OOP_Programming.example01;
 
 public class ProceduralGradeManager {
     public static void main(String[] args) {

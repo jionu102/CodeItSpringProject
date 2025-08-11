@@ -1,4 +1,4 @@
-package Head03_ClassAndObject;
+package Head03_ClassAndObject.example01;
 
 public class Product {
     private String productId;

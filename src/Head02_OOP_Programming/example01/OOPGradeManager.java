@@ -1,4 +1,4 @@
-package Head02_OOP_Programming;
+package Head02_OOP_Programming.example01;
 
 class Student {
     //접근 지정자를 명시하지 않을 경우 default(같은 패키지에서만 접근 가능)가 적용
