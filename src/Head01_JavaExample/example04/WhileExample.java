@@ -1,12 +1,9 @@
-package Head01_JavaPractice.example04;
+package Head01_JavaExample.example04;
 
-public class LoopExample {
+public class WhileExample {
     public static void main(String[] args) {
-        for (int i = 1; i <= 3; i++) {
-            System.out.println("i = " + i);
-        }
-
         int count = 0;
+
         while (count < 3) {
             System.out.println("count = " + count);
             count++;

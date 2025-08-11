@@ -1,6 +1,5 @@
-package Head01_JavaPractice.example05;
+package Head01_JavaExample.example05;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class ArrayToSort {

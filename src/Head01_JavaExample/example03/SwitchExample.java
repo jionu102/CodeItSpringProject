@@ -1,4 +1,4 @@
-package Head01_JavaPractice.example03;
+package Head01_JavaExample.example03;
 
 public class SwitchExample {
     public static void main(String[] args) {

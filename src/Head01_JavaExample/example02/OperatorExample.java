@@ -1,4 +1,4 @@
-package Head01_JavaPractice.example02;
+package Head01_JavaExample.example02;
 
 public class OperatorExample {
     public static void main(String[] args) {

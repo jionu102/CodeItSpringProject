@@ -1,4 +1,4 @@
-package Head01_JavaPractice.example04;
+package Head01_JavaExample.example04;
 
 import java.util.List;
 

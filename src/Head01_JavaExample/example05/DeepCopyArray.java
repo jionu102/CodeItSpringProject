@@ -1,4 +1,4 @@
-package Head01_JavaPractice.example05;
+package Head01_JavaExample.example05;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Head01_JavaPractice.example01;
+package Head01_JavaExample.example01;
 
 public class HelloWorld {
     public static void main(String[] args) {
