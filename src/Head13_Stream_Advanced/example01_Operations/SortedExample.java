@@ -1,4 +1,4 @@
-package Head13_Stream_Advanced.example01;
+package Head13_Stream_Advanced.example01_Operations;
 
 import java.util.Arrays;
 import java.util.List;
