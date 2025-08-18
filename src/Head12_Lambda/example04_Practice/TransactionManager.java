@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
+import java.util.stream.Collectors;
 
 public class TransactionManager {
     private List<Transaction> transactions = new ArrayList<>();
@@ -15,7 +16,7 @@ public class TransactionManager {
 
     // Predicate: 조건에 맞는 트랜잭션만 반환
     public List<Transaction> filterTransactions(Predicate<Transaction> predicate) {
-        return transactions.stream().filter(predicate).toList();
+        return transactions.stream().filter(predicate).collect(Collectors.toList());
     }
 
     // Function: 트랜잭션 금액 변환(매핑)
