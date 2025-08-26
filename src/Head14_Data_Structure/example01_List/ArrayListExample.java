@@ -1,4 +1,4 @@
-package Head14_Data_Structure.example01_ArrayList;
+package Head14_Data_Structure.example01_List;
 
 import java.util.ArrayList;
 import java.util.List;
